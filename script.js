@@ -1,18 +1,18 @@
 const proyectos = [
     {
-      titulo: "Proyecto 1",
-      descripcion: "Agregar la descripcion de tu proyecto 1.",
-      imagen: "https://i.ibb.co/849PVqg8/3e700e92a9c14385dc73338e23459fec.webp"
+      titulo: "Nivorxy Network",
+      descripcion: "Dueño de Nivorxy Network",
+      imagen: "https://ibb.co/xtTWCh7T"
     },
     {
-      titulo: "Proyecto 2",
-      descripcion: "Agregar la descripcion de tu proyecto 2.",
-      imagen: "https://i.ibb.co/849PVqg8/3e700e92a9c14385dc73338e23459fec.webp"
+      titulo: "KoraBot",
+      descripcion: "Creador de KoraBot",
+      imagen: "https://ibb.co/PZTmgYdc"
     },
     {
-      titulo: "Proyecto 3",
-      descripcion: "Agregar la descripcion de tu proyecto 3.",
-      imagen: "https://i.ibb.co/849PVqg8/3e700e92a9c14385dc73338e23459fec.webp"
+      titulo: "Nexyrs Studios",
+      descripcion: "Director de Nexyrs Studios",
+      imagen: "https://ibb.co/qF27yJwc"
     }
   ];
   
@@ -30,4 +30,5 @@ const proyectos = [
     `;
     contenedor.appendChild(card);
   });
+
   
